@@ -1,9 +1,9 @@
 // 视频不强制放在项目里。后续把外链填到下面 5 个变量即可。
-const lesson1VideoUrl = "";
-const lesson2VideoUrl = "";
-const lesson3VideoUrl = "";
-const lesson4VideoUrl = "";
-const lesson5VideoUrl = "";
+const lesson1VideoUrl = "assets/videos/lesson1.mp4";
+const lesson2VideoUrl = "assets/videos/lesson2.mp4";
+const lesson3VideoUrl = "assets/videos/lesson3.mp4";
+const lesson4VideoUrl = "assets/videos/lesson4.mp4";
+const lesson5VideoUrl = "assets/videos/lesson5.mp4";
 
 // 图片继续放在 assets/images 中，保持文件名不变即可替换。
 const ASSETS = {
